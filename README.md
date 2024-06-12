@@ -1,3 +1,5 @@
+vk
+
 <p align="center"><img width="180" alt="portfolio_view" src="badge.png"></p>
 <p align="center"><img width="300" alt="portfolio_view" src="kubernetes.png"></p>
 <h4 align="center"><a href="https://www.cncf.io/certification/cka/">https://www.cncf.io/certification/cka/</a></h3>
